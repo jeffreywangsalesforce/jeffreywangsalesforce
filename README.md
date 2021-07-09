@@ -2,8 +2,6 @@
 
 **jeffreywangsalesforce/jeffreywangsalesforce**
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Salesforce
 - 🌱 I’m currently learning ... Salesforce
 - 👯 I’m looking to collaborate on ... Salesforce
