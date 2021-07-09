@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with ... Salesforce
 - 💬 Ask me about ... Salesforce
 - 📫 How to reach me: ... jeffreywang@salesforce.com
-- 😄 Pronouns: ... 
+- 😄 Pronouns: ... h{e,i{m,s}}
 - ⚡ Fun fact: ... I work at Salesforce
